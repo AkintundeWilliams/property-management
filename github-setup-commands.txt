@@ -1,0 +1,10 @@
+1.	git init
+2.	git add .
+3.	git commit -m „any message“
+4.	git remote add origin https://github.com/AkintundeWilliams/property-management.git
+5.	git remote set-url origin https://AkintundeWilliams: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@github.com/AkintundeWilliams/property-management.git
+6.	git push --set-upstream origin master
+
+token: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
+profile:AkintundeWilliams
+repository: property-management.git
